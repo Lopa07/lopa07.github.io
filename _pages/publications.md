@@ -7,9 +7,9 @@ VolterraNet: A higher order convolutionalnetwork with group equivariance for hom
 <b>Monami Banerjee</b>, Rudrasis Chakraborty, Jose Bouza, and Baba C. Vemuri.
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. <b>IEEE TPAMI 2020</b>.
 
-<b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
-Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
-<i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
+<b>[DMR-CNN: A CNN Tailored for DMR Scans with Applications to PD Classification](http://lopa07.github.io/publications/isbi19)</b> <br> 
+<b>Monami Banerjee</b>, Rudrasis Chakraborty, and Baba C. Vemuri.
+<i>International Symposium of Biomedical Imaging</i>. <b>ISBI 2019</b>.
 
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
 <b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
