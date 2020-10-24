@@ -19,17 +19,18 @@ Baba C Vemuri, Jiaqi Sun, <b>Monami Banerjee</b>, Zhixin Pan, Sara M Turner, Dav
 Rudrasis Chakraborty, Chun-Hao Yang, Xingjian Zhen, <b>Monami Banerjee</b>, Derek Archer, David Vaillancourt, Vikas Singh, and Baba C Vemuri.
 <i>32nd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2018</b>.
 
-<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
-Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
-<i>The 23rd International Conference on Artificial Intelligence and Statistics</i>. <b>AISTATS 2020</b>.
+<b>[Sparse Exact PGA on Riemannian Manifolds](http://lopa07.github.io/publications/iccv17.pdf)</b> <br> 
+<b>Monami Banerjee</b>, Rudrasis Chakraborty, and Baba Vemuri.
+<i>International Conference of Computer Vision</i>. <b>ICCV 2017</b>.
 
-<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
-Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
-<i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
+L2E: A Framework for Robust Fréchet Mean and PGA on Riemannian Manifolds with Applications to
+Neuroimaging 
+<b>Monami Banerjee</b>, Bing Jian, and Baba Vemuri.
+<i>Information Processing in Medical Imaging</i>. <b>IPMI 2017 (Oral Presentation)</b>.
 
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
-<i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+<b>[Statistics on the space of trajectories for Longitudinal data analysis](http://lopa07.github.io/publications/isbi17.pdf)</b> <br> 
+Rudrasis Chakraborty, <b>Monami Banerjee</b>, and Baba Vemuri.
+<i>International Symposium of Biomedical Imaging</i>. <b>ISBI 2017</b>.
 
 <b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
 <b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
