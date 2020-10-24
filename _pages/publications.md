@@ -7,7 +7,7 @@ VolterraNet: A higher order convolutionalnetwork with group equivariance for hom
 <b>Monami Banerjee</b>, Rudrasis Chakraborty, Jose Bouza, and Baba C. Vemuri.
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. <b>IEEE TPAMI 2020</b>.
 
-<b>[DMR-CNN: A CNN Tailored for DMR Scans with Applications to PD Classification](http://lopa07.github.io/_publications/isbi19.pdf)</b> <br> 
+<b>[DMR-CNN: A CNN Tailored for DMR Scans with Applications to PD Classification](http://lopa07.github.io/publications/isbi19.pdf)</b> <br> 
 <b>Monami Banerjee</b>, Rudrasis Chakraborty, and Baba C. Vemuri.
 <i>International Symposium of Biomedical Imaging</i>. <b>ISBI 2019</b>.
 
