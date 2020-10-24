@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>[VolterraNet: A higher order convolutionalnetwork with group equivariance for homogeneous manifolds]</b> 
+VolterraNet: A higher order convolutionalnetwork with group equivariance for homogeneous manifolds
 <b>Monami Banerjee</b>, Rudrasis Chakraborty, Jose Bouza, and Baba C. Vemuri.
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. <b>IEEE TPAMI 2020</b>.
 
