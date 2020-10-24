@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Monami Banerjee (于澜涛)"
+title: "Monami Banerjee"
 permalink: /cv/
 author_profile: true
 redirect_from:
