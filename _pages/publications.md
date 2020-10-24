@@ -40,5 +40,5 @@ A method for automated classification of Parkinson’s disease diagnosis using a
 <b>Monami Banerjee</b>, Rudrasis Chakraborty, Edward Ofori, Michael S Okun, David E Viallancourt, and Baba C Vemuri.
 <i>Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2016</b>.
 
-<b>[Nonlinear Regression on Riemannian Manifolds and Its Appications to Neuro-Image Analysis](http://lopa07.github.io/publications/miccai15.pd)</b> <br>
+<b>[Nonlinear Regression on Riemannian Manifolds and Its Appications to Neuro-Image Analysis](http://lopa07.github.io/publications/miccai15.pdf)</b> <br>
 <b>Monami Banerjee</b>, Rudrasis Chakraborty, Edward Ofori, Michael S Okun, David E Viallancourt, and Baba C Vemuri. <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI 2015</b>.
