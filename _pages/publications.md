@@ -28,7 +28,7 @@ Neuroimaging
 <b>Monami Banerjee</b>, Bing Jian, and Baba Vemuri.
 <i>Information Processing in Medical Imaging</i>. <b>IPMI 2017 (Oral Presentation)</b>.
 
-<b>[Statistics on the space of trajectories for Longitudinal data analysis](http://lopa07.github.io/publications/isbi17.pdf)</b> <br> 
+<b>[Statistics on the space of trajectories for Longitudinal data analysis](http://lopa07.github.io/publications/isbi16.pdf)</b> <br> 
 Rudrasis Chakraborty, <b>Monami Banerjee</b>, and Baba Vemuri.
 <i>International Symposium of Biomedical Imaging</i>. <b>ISBI 2017</b>.
 
