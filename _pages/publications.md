@@ -11,13 +11,13 @@ VolterraNet: A higher order convolutionalnetwork with group equivariance for hom
 <b>Monami Banerjee</b>, Rudrasis Chakraborty, and Baba C. Vemuri.
 <i>International Symposium of Biomedical Imaging</i>. <b>ISBI 2019</b>.
 
-<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
-<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
-<i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.
+<b>[A geometric framework for ensemble average propagator reconstruction from diffusion MRI](http://lopa07.github.io/publications/media19.pdf)</b> <br> 
+Baba C Vemuri, Jiaqi Sun, <b>Monami Banerjee</b>, Zhixin Pan, Sara M Turner, David D Fuller, John R Forder, and Alireza Entezari.
+<i>Medical Image Analysis</i>. <b>MedIA 2019</b>.
 
-<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
-Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-<i>The 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
+<b>[Statistical Recurrent Models on Manifold valued Data](http://lopa07.github.io/publications/neurips18.pdf)</b> <br> 
+Rudrasis Chakraborty, Chun-Hao Yang, Xingjian Zhen, <b>Monami Banerjee</b>, Derek Archer, David Vaillancourt, Vikas Singh, and Baba C Vemuri.
+<i>32nd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2018</b>.
 
 <b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
 Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
