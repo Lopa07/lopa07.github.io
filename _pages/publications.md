@@ -1,12 +1,11 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=5hSvu5sAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-<b>[Autoregressive Score Matching](http://lantaoyu.com/publications/ARSM)</b> <br> 
-Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
-<i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
+<b>[VolterraNet: A higher order convolutionalnetwork with group equivariance for homogeneous manifolds]</b> 
+<b>Monami Banerjee</b>, Rudrasis Chakraborty, Jose Bouza, and Baba C. Vemuri.
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>. <b>IEEE TPAMI 2020</b>.
 
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
 Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
